@@ -1,6 +1,6 @@
 <h1>Bonjour, Je suis Barbara Estimable! <br/><a href="https://github.com/BarbaraEstimable">Développeuse Junior Full-Stack | IoT | Intelligence Artificielle</a>
 <h3>📍 Montréal, Québec</h3>
-<h3>💡 Passionnée par le développement Web, Mobile, l'IoT et l'Intelligence Artificielle.</h3>
+<h3>💡 Passionnée par le développement Web, Mobile, l'IoT, l'analyse de données et l'Intelligence Artificielle.</h3>
 
   
 <h2>👨‍💻 Mes Projets Personnels:</h2>
@@ -82,9 +82,9 @@
 <h3>English will follow</h3>
 <br><br><br>
 
-<h1>Hi, I'm Barbara Estimable! <br/><a href="https://github.com/BarbaraEstimable">Junior Full-Stack Developper</a>
+<h1>Hi, I'm Barbara Estimable! <br/><a href="https://github.com/BarbaraEstimable">Junior Full-Stack Developper | IoT | Artificial Intelligence</a>
 <h3>📍 Montreal, Quebec</h3>
-<h3>💡 Passionate about Web, Mobile, IoT and Artificial Intelligence development.</h3>
+<h3>💡 Passionate about Web, Mobile, IoT data analyst and Artificial Intelligence development.</h3>
 
   
 <h2>👨‍💻 My Personnal Projects:</h2>
