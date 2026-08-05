@@ -71,8 +71,8 @@
 
 <h2> 🤳 Prenez contact avec moi:</h2>
 
-[<img align="left" alt="BarbaraEstimable | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BarbaraEstimable | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][Email]
+[<img align="left" alt="BarbaraEstimable | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BarbaraEstimable | Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][Email]
 
 [linkedin]: https://linkedin.com/in/barbara-estimable-0285a0176
 [email]: Barbaraestimable@hotmail.com
@@ -155,8 +155,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="BarbaraEstimable | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BarbaraEstimable | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][Email]
+[<img align="left" alt="BarbaraEstimable | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BarbaraEstimable | Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][Email]
 
 [linkedin]: https://linkedin.com/in/barbara-estimable-0285a0176
 [email]: Barbaraestimable@hotmail.com
