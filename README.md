@@ -3,10 +3,10 @@
 <h3>💡 Passionnée par le développement Web, Mobile, l'IoT, l'analyse de données et l'Intelligence Artificielle.</h3>
 
   
-<h2>👨‍💻 Mes Projets Personnels:</h2>
+<h2>👨‍💻 Mes Projets Scolaires:</h2>
 
-- <b> Jeux Tron </b>
-  - [JavaScript-HTML-CSS](https://github.com/BarbaraEstimable/aec-developpement-application-web-tron.git)
+- <b> JavaScript-HTML-CSS </b>
+  - [Jeux Tron](https://github.com/BarbaraEstimable/aec-developpement-application-web-tron.git)
 - <b>Full Stack Web App (React, NodeJS, Iot, and Machine Learning Components)</b>
   - [Projet intégrateur système d'alarme](https://github.com/gab55/Projet-integrateur-s.git)
 - <b>Intelligence artificielle</b>
@@ -61,10 +61,10 @@
 <h3>💡 Passionate about Web, Mobile, IoT data analyst and Artificial Intelligence development.</h3>
 
   
-<h2>👨‍💻 My Personnal Projects:</h2>
+<h2>👨‍💻 My School Projects:</h2>
 
-- <b> Tron Game </b>
-  - [JavaScript-HTML-CSS](https://github.com/BarbaraEstimable/aec-developpement-application-web-tron.git)
+- <b> JavaScript-HTML-CSS </b>
+  - [Tron Game](https://github.com/BarbaraEstimable/aec-developpement-application-web-tron.git)
 - <b>Full Stack Web App (React, NodeJS, Iot, and Machine Learning Components)</b>
   - [Projet intégrateur système d'alarme](https://github.com/gab55/Projet-integrateur-s.git)
 - <b> Artificielle Intelligence </b>
