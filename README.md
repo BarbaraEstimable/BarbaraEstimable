@@ -46,10 +46,10 @@
 <h2> 🤳 Prenez contact avec moi:</h2>
 
 [<img align="left" alt="BarbaraEstimable | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BarbaraEstimable | Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][Email]
+[<img align="left" alt="BarbaraEstimable | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
 [linkedin]: https://linkedin.com/in/barbara-estimable-0285a0176
-[email]: Barbaraestimable@hotmail.com
+[gmail]: barbaraestimable7@gmail.com
 
 
 <br><br><br>
@@ -104,10 +104,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="BarbaraEstimable | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BarbaraEstimable | Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />][Email]
+[<img align="left" alt="BarbaraEstimable | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
 [linkedin]: https://linkedin.com/in/barbara-estimable-0285a0176
-[email]: Barbaraestimable@hotmail.com
+[gmail]: barbaraestimable7@gmail.com
 
 
 
