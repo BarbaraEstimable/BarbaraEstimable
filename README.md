@@ -6,11 +6,14 @@
 <h2>👨‍💻 Mes Projets Scolaires:</h2>
 
 - <b> JavaScript-HTML-CSS </b>
-  - [Jeux Tron](https://github.com/BarbaraEstimable/aec-developpement-application-web-tron.git)
+  - [Tron Game](https://github.com/BarbaraEstimable/aec-developpement-application-web-tron.git)
+- <b> React Native </b>
+  - [Projet final](https://github.com/BarbaraEstimable/aec-developpement_applications_multiplateformes-Projet_final.git)
 - <b>Full Stack Web App (React, NodeJS, Iot, and Machine Learning Components)</b>
   - [Projet intégrateur système d'alarme](https://github.com/gab55/Projet-integrateur-s.git)
-- <b>Intelligence artificielle</b>
-  - [Classification](https://github.com/BarbaraEstimable/aec-intelligence-artificielle-1-Projet1-Cats-vs-Dogs.git)
+- <b> Artificielle Intelligence </b>
+  - [Classification Chats vs Chiens - CNN Simple](https://github.com/BarbaraEstimable/aec-intelligence-artificielle-1-Projet1-Cats-vs-Dogs.git)
+  - [Projet 1 - Plus Court Chemin entre Villes](https://github.com/BarbaraEstimable/aec-intelligence_artificielle_2-TP1.git)
 
  
 ## 🚀 Technologies
@@ -65,10 +68,14 @@
 
 - <b> JavaScript-HTML-CSS </b>
   - [Tron Game](https://github.com/BarbaraEstimable/aec-developpement-application-web-tron.git)
+- <b> React Native </b>
+  - [Final Projet](https://github.com/BarbaraEstimable/aec-developpement_applications_multiplateformes-Projet_final.git)
 - <b>Full Stack Web App (React, NodeJS, Iot, and Machine Learning Components)</b>
   - [Projet intégrateur système d'alarme](https://github.com/gab55/Projet-integrateur-s.git)
 - <b> Artificielle Intelligence </b>
-  - [Classification](https://github.com/BarbaraEstimable/aec-intelligence-artificielle-1-Projet1-Cats-vs-Dogs.git)
+  - [Classification Chats vs Chiens - CNN Simple](https://github.com/BarbaraEstimable/aec-intelligence-artificielle-1-Projet1-Cats-vs-Dogs.git)
+  - [Projet 1 - Plus Court Chemin entre Villes](https://github.com/BarbaraEstimable/aec-intelligence_artificielle_2-TP1.git)
+
 
  
 ## 🚀 Technologies
