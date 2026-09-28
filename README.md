@@ -52,7 +52,7 @@
 [<img align="left" alt="BarbaraEstimable | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
 [linkedin]: https://linkedin.com/in/barbara-estimable-0285a0176
-[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=barbaraestimable7@gmail.com
+[gmail]: mailto:barbaraestimable7@gmail.com
 
 
 <br><br><br>
@@ -114,7 +114,7 @@
 [<img align="left" alt="BarbaraEstimable | Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][Gmail]
 
 [linkedin]: https://linkedin.com/in/barbara-estimable-0285a0176
-[gmail]: https://mail.google.com/mail/?view=cm&fs=1&to=barbaraestimable7@gmail.com
+[gmail]: mailto:barbaraestimable7@gmail.com
 
 
 
