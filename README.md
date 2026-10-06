@@ -13,7 +13,9 @@
   - [Projet intégrateur système d'alarme](https://github.com/gab55/Projet-integrateur-s.git)
 - <b> Artificielle Intelligence </b>
   - [Classification Chats vs Chiens - CNN Simple](https://github.com/BarbaraEstimable/aec-intelligence-artificielle-1-Projet1-Cats-vs-Dogs.git)
+  - [Optimisation : PL, Glouton et Programmation Dynamique](https://github.com/BarbaraEstimable/aec-intelligence_artificielle_1-TP2.git)
   - [Projet 1 - Plus Court Chemin entre Villes](https://github.com/BarbaraEstimable/aec-intelligence_artificielle_2-TP1.git)
+    
 
  
 ## 🚀 Technologies
