@@ -61,7 +61,7 @@
 <h3>English will follow</h3>
 <br><br><br>
 
-<h1>Hi, I'm Barbara Estimable! <br/><a href="https://github.com/BarbaraEstimable">Junior Full-Stack Developper | IoT | Artificial Intelligence</a>
+<h1>Hi, I'm Barbara Estimable! <br/><a href="https://github.com/BarbaraEstimable">Junior Full-Stack Developer | IoT | Artificial Intelligence</a>
 <h3>📍 Montreal, Quebec</h3>
 <h3>💡 Passionate about Web, Mobile, IoT data analyst and Artificial Intelligence development.</h3>
 
@@ -76,8 +76,8 @@
   - [Projet intégrateur système d'alarme](https://github.com/gab55/Projet-integrateur-s.git)
 - <b> Artificielle Intelligence </b>
   - [Classification Chats vs Chiens - CNN Simple](https://github.com/BarbaraEstimable/aec-intelligence-artificielle-1-Projet1-Cats-vs-Dogs.git)
+  - [Optimisation : PL, Glouton et Programmation Dynamique](https://github.com/BarbaraEstimable/aec-intelligence_artificielle_1-TP2.git)
   - [Projet 1 - Plus Court Chemin entre Villes](https://github.com/BarbaraEstimable/aec-intelligence_artificielle_2-TP1.git)
-
 
  
 ## 🚀 Technologies
